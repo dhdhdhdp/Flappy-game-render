@@ -1,0 +1,23 @@
+[
+  {
+    "Speler": {
+      "Naam": "gaaaame",
+      "score": 5,
+      "highscore": 5
+    }
+  },
+  {
+    "Speler": {
+      "Naam": "game?",
+      "score": 1,
+      "highscore": 1
+    }
+  },
+  {
+    "Speler": {
+      "Naam": "gamee",
+      "score": 1,
+      "highscore": 1
+    }
+  }
+]
